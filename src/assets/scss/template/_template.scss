@@ -1,0 +1,58 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles
+body,
+html,
+.body {
+  background: #f3f3f3 !important;
+}
+
+.body-drip {
+  border: 1px solid #000;
+}
+
+// Full Width Headers
+.header, .footer {
+  background: #364f9e;
+}
+
+table.button table td a, table.button table td {
+  background: #4869d2;
+}
+
+table.button table td {
+  border: 2px solid #364f9e;
+}
+
+.header {
+  border-bottom: 1px solid #000;
+}
+
+.footer {
+  border-top: 1px solid #000;
+}
+
+.footer p, .footer p a {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.footer p a {
+  color: white;
+  font-weight: bold;
+}
+
+img.header-logo {
+  height: 36px !important;
+}
+
+.message-title {
+  h4, h5 {
+    margin-bottom: 0px;
+  }
+}
+.message-title-hr {
+  margin-top: 0px;
+}
